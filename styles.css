@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+  margin: 0;
+}
+
+.contact-info {
+  margin: 5px 0;
+}
+
+.education {
+  padding: 20px;
+}
+
+.education h2 {
+  font-size: 24px;
+}
+
+.education ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.education li {
+  margin-bottom: 20px;
+}
+
+/* Add other styles as needed for other sections */
